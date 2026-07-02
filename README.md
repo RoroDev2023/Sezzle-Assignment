@@ -163,7 +163,7 @@ Vitest writes an HTML coverage report to `frontend/coverage/`.
 
 ## AI Tooling Disclosure
 
-AI tooling was used to scaffold and implement the assignment. Prompts used:
+AI tooling was used for documentation and some add-ons. Prompts used:
 
 ```text
 Document the README.md file for the Sezzle Junior Software Engineer assignment as a full-stack calculator app. Document the:
